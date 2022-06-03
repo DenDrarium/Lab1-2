@@ -1,0 +1,3 @@
+E:\Studies\Courses\ИнтелСис\1 Лаба\PhoneSelection\PhoneSelection\Debug\PhoneSelection.vcxproj.AssemblyReference.cache
+E:\Studies\Courses\ИнтелСис\1 Лаба\PhoneSelection\PhoneSelection\Debug\PhoneSelection.MyForm.resources
+E:\Studies\Courses\ИнтелСис\1 Лаба\PhoneSelection\PhoneSelection\Debug\PhoneSelection.vcxproj.GenerateResource.cache

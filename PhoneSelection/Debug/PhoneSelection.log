@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+E:\Studies\Courses\ИнтелСис\1 Лаба\PhoneSelection\PhoneSelection\MyForm.cpp(33,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+E:\Studies\Courses\ИнтелСис\1 Лаба\PhoneSelection\PhoneSelection\MyForm.cpp(191,9): warning C4101: 'n1': unreferenced local variable
+E:\Studies\Courses\ИнтелСис\1 Лаба\PhoneSelection\PhoneSelection\MyForm.cpp(191,13): warning C4101: 't': unreferenced local variable
+E:\Studies\Courses\ИнтелСис\1 Лаба\PhoneSelection\PhoneSelection\MyForm.cpp(191,6): warning C4101: 'n': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PhoneSelection.vcxproj -> E:\Studies\Courses\ИнтелСис\1 Лаба\PhoneSelection\Debug\PhoneSelection.exe

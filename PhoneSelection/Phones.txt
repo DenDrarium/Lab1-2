@@ -1,0 +1,5 @@
+INOI_103B     1790 monoblock 0  1  1  1  0  600
+OLMIO_E29     2994 monoblock 0  1  1  1  1  1900
+Texet_TM_D429 2390 monoblock 1  1  0  1  1  500
+F+_S350       3990 monoblock 0  0  1  1  1  1800
+Maxvi_B10     3380 monoblock 1	0  0  1  1  1200
